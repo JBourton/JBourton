@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joshua Bourton
 - 👀 I’m interested in the fields of AI safety and web development
-- 🌱 I’m currently studying Computer Science at Durham University
-- 💞️ I'm looking to collaborate with other university students on projects that will boost my CV and programming knowledge
+- 🌱 I’m currently working a Tech internship at Proctor and Gamble
+- 💞️ I'm looking to build my knowledgebase on all things fullstack, particularly frontend frameworks
 - 📫 How to reach me: Durham University email xtzv61@durham.ac.uk or personal email joshua.bourton16@gmail.com
