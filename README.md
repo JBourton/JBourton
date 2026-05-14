@@ -14,4 +14,5 @@ I'm a final-year Computer Science student at Durham University, passionate about
 
 * 👀 **I'm interested in:** AI Safety, distributed systems, and building impactful products.
 * 💞️ **I'm looking to collaborate on:** Open-source tools or full-stack web applications.
-* 📫 **Find me here:** [LinkedIn](YOUR_LINKEDIN_URL) | **joshua.bourton16@gmail.com**
+* 📫 **Find me here:** [LinkedIn](https://www.linkedin.com/in/joshuabourton/) | **joshua.bourton16@gmail.com**
+* 🌐 **Website:** [Interactive CV - Joshua Bourton](www.joshuabourton.uk)
