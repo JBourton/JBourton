@@ -9,7 +9,7 @@
   <a href="mailto:joshua.bourton16@gmail.com"><img src="https://img.shields.io/badge/Email-joshua.bourton16%40gmail.com-68246D?style=flat-square" alt="Email"></a>
 </p>
 
-<p><b><i>Abstract.</i></b> I am a First Class Computer Science graduate from Durham University, joining Accenture as a Technical Analyst. My academic work centres on computational methods for political language, using transformer models to quantify rhetoric at a scale that qualitative analysis cannot reach. Alongside this, I have built learning agents, generative models and real-time tracking systems under deliberately tight constraints. Every figure on this page is taken directly from that work.</p>
+<p><b><i>Abstract.</i></b> I'm a First Class Computer Science graduate from Durham University, joining Accenture as a Technical Analyst. My academic work centres on computational methods for political language, using transformer models to quantify rhetoric at a scale that qualitative analysis can't reach. Alongside this, I've built learning agents, generative models and real-time tracking systems under deliberately tight constraints. All the figures on this page are taken directly from that work.</p>
 
 <p><b><i>Index Terms.</i></b> Natural language processing, transformers, reinforcement learning, generative modelling, sensor fusion, data engineering</p>
 
@@ -17,7 +17,7 @@
 
 My route into industry ran through a year-long placement at Procter &amp; Gamble, where I worked as an IT project manager on internal data platforms. The role combined directing outsourced developers with hands-on delivery, including an ETL redesign, a Power BI to Databricks migration and application deployment on Azure App Service.
 
-Alongside my degree, I have spent over seven years tutoring GCSE, A-level and IB Maths and Computer Science, which has shaped how I communicate technical work. I also evaluate large language model outputs on tool-calling and code-review tasks, and I am currently building a fully local, modular AI assistant on self-hosted hardware. Outside of computing I skydive, recording each jump in a [logbook app](https://github.com/JBourton/Skydiving-Logbook-App) I built for the purpose.
+Alongside my degree, I've spent over seven years tutoring GCSE, A-level and IB Maths and Computer Science, which has shaped how I communicate technical work. I also evaluate large language model outputs on tool-calling and code-review tasks, and I'm currently building a fully local, modular AI assistant on self-hosted hardware. Outside of computing I skydive, recording each jump in a [logbook app](https://github.com/JBourton/Skydiving-Logbook-App) I built for the purpose.
 
 ## 2&nbsp;&nbsp;Selected Work
 
@@ -142,13 +142,13 @@ The selected model reached a macro Spearman correlation of 0.524 and a macro QWK
 
 ## 4&nbsp;&nbsp;GitHub Activity
 
-<p>
+<p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JBourton&show_icons=true&hide_rank=true&hide=contribs&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=C9A3D4&icon_color=C9A3D4&text_color=C9D1D9">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JBourton&show_icons=true&hide_rank=true&hide=contribs&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=68246D&icon_color=68246D&text_color=59636E" alt="GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JBourton&show_icons=true&hide_rank=true&hide=contribs&hide_border=true&bg_color=00000000&title_color=C9A3D4&icon_color=C9A3D4&text_color=C9D1D9">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=JBourton&show_icons=true&hide_rank=true&hide=contribs&hide_border=true&bg_color=00000000&title_color=68246D&icon_color=68246D&text_color=59636E" alt="GitHub stats">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JBourton&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=C9A3D4&text_color=C9D1D9">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBourton&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=68246D&text_color=59636E" alt="Top languages">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JBourton&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=68246D&text_color=59636E" alt="Top languages">
   </picture>
 </p>
